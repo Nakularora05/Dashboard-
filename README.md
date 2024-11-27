@@ -20,3 +20,5 @@ The dataset appears to contain:
 **PESTLE Dynamics:** Understanding how insights are distributed across PESTLE categories can help prioritize areas needing attention—whether it’s technology adoption or legal compliance.
 **Sector Trends:** These trends might reveal opportunities or risks in specific industries, aiding in investment or risk management strategies.
 **Insight Likelihood and Relevance:** Comparing these attributes allows managers to focus on insights that are both impactful and probable, optimizing decision-making efficiency.
+
+![Nakul's Dashboard](https://github.com/user-attachments/assets/785bb48b-59c3-4d50-8e2c-fa38202c993d)

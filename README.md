@@ -10,9 +10,14 @@
 
 The dataset appears to contain:
 
-**Geographic Information:** A country-wise distribution, with an example count including 24 insights from China, 6 from Canada, and others adding up to a total of 1,000 records.
-**Categorical Distribution:** Data segregated across PESTLE dimensions.
-**Sectoral Trends:** Likely involves segmentation based on industry or economic sector.
+The key fields include:
+
+**Temporal Data:** start_year and end_year for the duration of trends or predictions.
+**Intensity and Likelihood:** Metrics for the impact and probability of events or trends.
+**Sector and Topic:** Relevant industry or sector (e.g., energy, healthcare, retail) and specific topics (e.g., oil, gas, GDP).
+**Geographical Information:** Includes region and country to localize insights.
+**PESTLE Analysis:** Links insights to Political, Economic, Social, Technological, Legal, or Environmental factors.
+**Sources and Insights:** URLs, titles, and summarized insights provide detailed references and context.
 
 ## Managerial Insights
 

@@ -12,7 +12,7 @@ The dataset appears to contain:
 
 The key fields include:
 
-**Temporal Data:** start_year and end_year for the duration of trends or predictions.
+**Temporal Data:** start_year and end_year of publication for the duration of trends or predictions.
 **Intensity and Likelihood:** Metrics for the impact and probability of events or trends.
 **Sector and Topic:** Relevant industry or sector (e.g., energy, healthcare, retail) and specific topics (e.g., oil, gas, GDP).
 **Geographical Information:** Includes region and country to localize insights.
